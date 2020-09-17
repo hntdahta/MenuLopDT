@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\MenuLopDT\MenuLopDT\obj\Debug\netcoreapp3.1\MenuLopDT.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\MenuLopDT\MenuLopDT\obj\Debug\netcoreapp3.1\MenuLopDT.AssemblyInfo.cs
+C:\Users\PC\source\repos\MenuLopDT\MenuLopDT\obj\Debug\netcoreapp3.1\MenuLopDT.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\MenuLopDT\MenuLopDT\bin\Debug\netcoreapp3.1\MenuLopDT.exe
+C:\Users\PC\source\repos\MenuLopDT\MenuLopDT\bin\Debug\netcoreapp3.1\MenuLopDT.deps.json
+C:\Users\PC\source\repos\MenuLopDT\MenuLopDT\bin\Debug\netcoreapp3.1\MenuLopDT.runtimeconfig.json
+C:\Users\PC\source\repos\MenuLopDT\MenuLopDT\bin\Debug\netcoreapp3.1\MenuLopDT.runtimeconfig.dev.json
+C:\Users\PC\source\repos\MenuLopDT\MenuLopDT\bin\Debug\netcoreapp3.1\MenuLopDT.dll
+C:\Users\PC\source\repos\MenuLopDT\MenuLopDT\bin\Debug\netcoreapp3.1\MenuLopDT.pdb
+C:\Users\PC\source\repos\MenuLopDT\MenuLopDT\obj\Debug\netcoreapp3.1\MenuLopDT.dll
+C:\Users\PC\source\repos\MenuLopDT\MenuLopDT\obj\Debug\netcoreapp3.1\MenuLopDT.pdb
+C:\Users\PC\source\repos\MenuLopDT\MenuLopDT\obj\Debug\netcoreapp3.1\MenuLopDT.genruntimeconfig.cache
+C:\Users\PC\source\repos\MenuLopDT\MenuLopDT\obj\Debug\netcoreapp3.1\MenuLopDT.csprojAssemblyReference.cache
